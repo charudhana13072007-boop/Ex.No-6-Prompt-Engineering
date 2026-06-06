@@ -14,3 +14,5 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+
+[propmt expt 6 (charu).docx](https://github.com/user-attachments/files/28661747/propmt.expt.6.charu.docx)
